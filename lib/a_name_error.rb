@@ -1,3 +1,3 @@
-def name = "hello world"
+"hello world"
 
-name
+hello_world
